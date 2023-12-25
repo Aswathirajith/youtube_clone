@@ -133,7 +133,8 @@ nav{
     margin-top: 15px;
 }
 .video-list .thumbnail{
-    width: 100%;
+    width:297px;
+    height: 166px;
     border-radius: 5%;
 }
 .video-list .flex-div{
